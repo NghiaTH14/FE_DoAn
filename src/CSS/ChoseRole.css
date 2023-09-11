@@ -1,0 +1,34 @@
+
+.SignUpGrid{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+
+.btnSignUpUser{
+    width: 150px;
+    height: 170px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow:rgb(245 210 23 / 68%) 0px 1px 15px 15px;
+}
+
+.imgUser{
+    height: 150px;
+    width: 150px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.btnSignUpOrganizers{
+    width: 150px;
+    height: 170px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow:rgb(245 210 23 / 68%) 0px 1px 15px 15px;
+}
+
+.imgOrganizers{
+    height: 150px;
+    width: 150px;
+    border-radius: 20px 20px 0px 0px;
+}
